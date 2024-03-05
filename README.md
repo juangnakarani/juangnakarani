@@ -1,4 +1,4 @@
-### Hi there, I'm Juang Nakarani 👋
+### Hi there 👋
 
 - 🔭 I’m currently working on tataniaga.com
 - 🌱 I’m currently learning C++ development.
