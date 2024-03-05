@@ -9,7 +9,7 @@
 
 ### I really like things related to coding.
 
-- 🔭 I’m currently working on a ton of side project!
+- 🔭 I’m currently working on tataniaga.com
 - 🌱 I’m currently learning C++ development.
 - 👯 I’m looking to collaborate on web apps.
 - 💬 Ask me about Java, Python or Go.
