@@ -26,5 +26,5 @@
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
 
