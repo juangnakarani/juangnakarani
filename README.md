@@ -1,14 +1,5 @@
 ### Hi there, I'm Juang Nakarani 👋
 
-[![Juang's github stats](https://github-readme-stats.vercel.app/api?username=juangnakarani)](https://github.com/juangnakarani/juangnakarani)
-
-
-<!--
-**juangnakarani/juangnakarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-### I really like things related to coding.
-
 - 🔭 I’m currently working on tataniaga.com
 - 🌱 I’m currently learning C++ development.
 - 👯 I’m looking to collaborate on web apps.
