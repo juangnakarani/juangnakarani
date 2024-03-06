@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning C++ development.
 - 👯 I’m looking to collaborate on web apps.
-- 💬 Ask me about Java, Python or Go.
+- 💬 Ask me about Vue.js, Java, Kotlin, Python or Go.
 - 📫 How to reach me: juang.nakarani@gmail.com
 - ⚡ Fun fact: I'm a UAV pilot
 
