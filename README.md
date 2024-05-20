@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Flutter development.
+- 🌱 I’m currently learning C/C++ development.
 - 💬 Ask me about Vue.js, Java, Kotlin, Python or Go.
 - 📫 How to reach me: juang.nakarani@gmail.com
 
