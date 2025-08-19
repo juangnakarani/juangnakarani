@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C/C++ & Rust development.
+- 🌱 I’m currently learning C/C++ & Rust.
 - 💬 Ask me about Arduino.
 - 📫 How to reach me: juang.nakarani@gmail.com
 
