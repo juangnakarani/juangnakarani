@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning C/C++ & Rust.
-- 💬 Ask me about Arduino.
+- 💬 Ask me about STM32 & ESP32.
 - 📫 How to reach me: juang.nakarani@gmail.com
 
 
