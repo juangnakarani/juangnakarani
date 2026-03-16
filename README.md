@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C/C++ & Rust.
+- 🌱 I’m currently learning C/C++ & Rust & Go.
 - 💬 Ask me about STM32 & ESP32.
 - 📫 How to reach me: juang.nakarani@gmail.com
 
